@@ -9,51 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF of Resume](https://strachbylightning.github.io/files/resume.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Western Washington University, December 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Amazon, Software Development Engineer Intern**,
+  *September 2018 - November 2018*
+  * Details: Built a http web server to remediate AWS infrastructure hardware after failures.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+
+* **Slalom, Software Development Engineer Intern**,
+  *June 2018 - August 2018*
+  * Details: During 10 week internship built a Full Stack Web Application from the ground up with a 10 person team.
+
+
+
+* **Western Washington University, Full Stack Web Developer**,
+  *December 2016 - June 2018*
+  * Details: Developed and maintained web applications using Python with the Django framework.
   
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Java
+* Python
+  * Django
+  * Flask
+  * Tensorflow, Scikit-learn
+* MySQL
+* HTML, CSS, Javascript
+* DynamoDB
+* C
+* Bash
+* Golang
