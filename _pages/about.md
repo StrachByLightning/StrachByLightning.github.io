@@ -10,7 +10,7 @@ redirect_from:
 
 ------
 
-I'm an **Undergraduate Senior** studying **Computer Science** at **Westerning Washington University**. Currently interested in Machine Learning, Natural Language Processesing, Data Science, Cloud Applications, and Back-End Development.
+I'm an **Undergraduate Senior** studying **Computer Science** at **Western Washington University**. Currently interested in Machine Learning, Natural Language Processesing, Data Science, Cloud Applications, and Back-End Development.
 
 I've interned as a Software Development Engineer for **Slalom** and **Amazon**. Both amazing experiences I plan to write about in my blog sometime soon! &trade; I'm always looking for a challenge, and a new opportunity to develop software.
 
